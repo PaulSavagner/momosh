@@ -3,7 +3,7 @@
 }
 
 h1 {
-    text-align: center;
+    text-align: justify;
 }
 
 .image {
@@ -14,8 +14,10 @@ h1 {
     width: 500px;
 }
 
+
+
 .image-description {
-    text-align: justify;
+    text-align: center;
     color: gray;
     font-style: italic;
     display: block;
